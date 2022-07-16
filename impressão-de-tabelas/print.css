@@ -1,0 +1,36 @@
+* {
+    color: black !important;
+}
+
+table {
+    width: 100%;
+}
+
+td {
+    border-color: black;
+}
+
+a::after {
+    content: "(" attr(href) ")";
+    margin-left: 2px;
+}
+
+.editar {
+    display: none;
+}
+
+.valor01::before {
+    content: "- ";
+}
+
+.valor01::after {
+    content: "- Despesa";
+}
+
+.valor02::before {
+    content: "+ ";
+}
+
+.valor02::after {
+    content: "- Receita";
+}

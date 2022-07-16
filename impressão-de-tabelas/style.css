@@ -1,0 +1,39 @@
+table {
+    width: 500px;
+}
+
+td {
+    border: 1px dotted #666;
+    padding: 5px;
+}
+
+td a {
+    color: #39548f;
+}
+
+.valor01,
+.valor02,
+.editar {
+    text-align: right;
+}
+
+.valor01,
+.valor02 {
+    font-weight: bold;
+}
+
+.valor01 {
+    color: red;
+}
+
+.valor02 {
+    color: green;
+}
+
+.editar a {
+    font-size: 0.9em;
+    color: white;
+    padding: 2px 5px;
+    background-color: #39548f;
+    text-decoration: none;
+}

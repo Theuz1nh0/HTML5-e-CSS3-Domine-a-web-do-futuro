@@ -1,0 +1,46 @@
+.flex {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.corpo {
+    align-items: center;
+}
+
+.caixa-das-frutas {
+    flex-direction: row !important;
+    width: 600px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    position: relative;
+    transition: transform 0.2s linear;
+    width: 25%;
+}
+
+ul:nth-child(even) {
+    transform: rotate(5deg);
+}
+
+ul:nth-child(odd) {
+    transform: rotate(-5deg);
+}
+
+ul:hover {
+    transform: scale(1.3);
+    z-index: 1;
+}
+
+.frutas {
+    margin-left: 10px;
+}
+
+span {
+    color: #153755;
+    font-weight: bold;
+    margin-top: 5px;
+    text-align: center;
+}
