@@ -45,6 +45,16 @@ h1 a:hover {
 img {
     float: left;
     margin: 10px 10px 0 0;
+    transition: all 0.1s linear;
+}
+
+img:hover {
+    transform: scale(1.2) translateY(5px);
+}
+
+p a:hover{
+    color: #0b6ac9;
+    text-decoration: underline;
 }
 
 .limpar {
