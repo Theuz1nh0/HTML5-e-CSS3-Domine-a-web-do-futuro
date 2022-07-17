@@ -2,85 +2,92 @@
 
 - [criando-formulario](#criando-formulario)
   - [Screenshot](#screenshot)
-  - [Links](#links)
+  - [Link](#link)
 - [janela-modal](#janela-modal)
   - [Screenshot](#screenshot)
-  - [Links](#links)
+  - [Link](#link)
 - [placeholder](#placeholder)
   - [Screenshot](#screenshot)
-  - [Links](#links)
+  - [Link](#link)
 - [primeiro-projeto](#primeiro-projeto)
   - [Screenshot](#screenshot)
-  - [Links](#links)
+  - [Link](#link)
 - [ruby-on-rails](#ruby-on-rails)
   - [Screenshot](#screenshot)
-  - [Links](#links)
-- [utilizando-linear-gradiante](#utilizando-linear-gradiante)
+  - [Link](#link)
+- [transformando-elementos](#transformando-elementos)
   - [Screenshot](#screenshot)
-  - [Links](#links)
+  - [Link](#link)
+- [formulario-com-transicao](#formulario-com-transicao)
+  - [Screenshot](#screenshot)
+  - [Link](#link)
 
 ## criando-formulario
 
 ### Screenshot
 
-![](./design/NFT-preview-card-component.png)
+![](./prints-dos-projetos/print-criando-formilario.png)
 
-### Links
+### Link
 
-- Solution URL: [solution URL](https://github.com/Theuz1nh0/NFT-preview-card-component)
-- Live Site URL: [live site URL](https://theuz1nh0.github.io/NFT-preview-card-component/)
+- Live Site URL: [live site URL](https://theuz1nh0.github.io/HTML5-e-CSS3-Domine-a-web-do-futuro/criando-formulario/)
 
 ## janela-modal
 
 ### Screenshot
 
-![](./design/NFT-preview-card-component.png)
+![](./prints-dos-projetos/print-janela-modal.png)
 
-### Links
+### Link
 
-- Solution URL: [solution URL](https://github.com/Theuz1nh0/NFT-preview-card-component)
-- Live Site URL: [live site URL](https://theuz1nh0.github.io/NFT-preview-card-component/)
+- Live Site URL: [live site URL](https://theuz1nh0.github.io/HTML5-e-CSS3-Domine-a-web-do-futuro/janela-modal/)
 
 ## placeholder
 
 ### Screenshot
 
-![](./design/NFT-preview-card-component.png)
+![](./prints-dos-projetos/print-placeholder.png)
 
-### Links
+### Link
 
-- Solution URL: [solution URL](https://github.com/Theuz1nh0/NFT-preview-card-component)
-- Live Site URL: [live site URL](https://theuz1nh0.github.io/NFT-preview-card-component/)
+- Live Site URL: [live site URL](https://theuz1nh0.github.io/HTML5-e-CSS3-Domine-a-web-do-futuro/placeholder/)
 
 ## primeiro-projeto
 
 ### Screenshot
 
-![](./design/NFT-preview-card-component.png)
+![](./prints-dos-projetos/print-primeiro-projeto.png)
 
-### Links
+### Link
 
-- Solution URL: [solution URL](https://github.com/Theuz1nh0/NFT-preview-card-component)
-- Live Site URL: [live site URL](https://theuz1nh0.github.io/NFT-preview-card-component/)
+- Live Site URL: [live site URL](https://theuz1nh0.github.io/HTML5-e-CSS3-Domine-a-web-do-futuro/primeiro-projeto/)
 
 ## ruby-on-rails
 
 ### Screenshot
 
-![](./design/NFT-preview-card-component.png)
+![](./prints-dos-projetos/print-ruby-on-rails.png)
 
-### Links
+### Link
 
-- Solution URL: [solution URL](https://github.com/Theuz1nh0/NFT-preview-card-component)
-- Live Site URL: [live site URL](https://theuz1nh0.github.io/NFT-preview-card-component/)
+- Live Site URL: [live site URL](https://theuz1nh0.github.io/HTML5-e-CSS3-Domine-a-web-do-futuro/ruby-on-rails/)
 
-## utilizando-linear-gradiante
+## transformando-elementos
 
 ### Screenshot
 
-![](./design/NFT-preview-card-component.png)
+![](./prints-dos-projetos/print-transformando-elementos.png)
 
-### Links
+### Link
 
-- Solution URL: [solution URL](https://github.com/Theuz1nh0/NFT-preview-card-component)
-- Live Site URL: [live site URL](https://theuz1nh0.github.io/NFT-preview-card-component/)
+- Live Site URL: [live site URL](https://theuz1nh0.github.io/HTML5-e-CSS3-Domine-a-web-do-futuro/transformando-elementos/)
+
+## formulario-com-transicao-3d
+
+### Screenshot
+
+![](./prints-dos-projetos/print-formulario-transicao.png)
+
+### Link
+
+- Live Site URL: [live site URL](https://theuz1nh0.github.io/HTML5-e-CSS3-Domine-a-web-do-futuro/formulario-com-transicao-3d/)
